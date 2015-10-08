@@ -137,6 +137,9 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
+    showdown-rails (0.0.4)
+      actionpack (>= 3.1)
+      railties (>= 3.1)
     slop (3.6.0)
     spring (1.4.0)
     sprockets (2.12.4)
@@ -182,6 +185,7 @@ DEPENDENCIES
   rspec-rails
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
+  showdown-rails
   spring
   sqlite3
   turbolinks

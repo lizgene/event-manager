@@ -14,6 +14,7 @@ gem 'bootstrap-sass', '~> 3.3.0.1'
 gem 'autoprefixer-rails' #used with bootstrap-sass to add vendor prefixes automagically
 gem 'font-awesome-rails'
 gem 'react-rails', '~> 1.3.0' #omg trying out react
+gem 'showdown-rails' #markdown compiler
 
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
